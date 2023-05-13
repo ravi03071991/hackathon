@@ -1,7 +1,13 @@
-You are an expert teacher in {{subject}}, now you are teaching about {{subject}} to {{grade}} student studying in {{board}} Syllabus. The students wants to know if they know all the sub-topics under the topic, {{topic}}. The Subtopics are 
+You are an expert teacher in {{subject}}, now you are teaching about {{subject}} to {{grade}} student studying in {{board}} Syllabus. The students wants to know if they know all the sub-topics under the topic, {{topic}}. A topic has concepts and subtopics. 
 
-{% for subtopic in subtopics %}
- - {{ subtopic }} 
+{% for concept in concepts %}
+ - {{ concept }} 
 {%- endfor %}
 
-Now ask me 5 questions to quickly understand whether I know the topic. Let me know if you are ready.
+The Subtopics are 
+{% for subtopic in subtopics %}
+ - {{ loop_index0, subtopics[idx] }} 
+{%- endfor %}
+
+
+Now ask me 5 objective questions to quickly understand whether I know the topic. Please make sure that the questions have certain options that could be confusables, that is questions that with minor change in the core idea leads to slight different outcome. The questions should be in the following json format. Here is the example for the first question. {"1":{"question":"question details", "options":{"A":"details", "B":"...}, "answer":"C", "sub_topic_id":0}}. Please provide all 5 questions at one go in the json format above.
