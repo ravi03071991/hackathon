@@ -1,0 +1,112 @@
+{
+  "1": {
+    "question": "Which of the following is a balanced chemical equation?",
+    "options": {
+      "A": "H2 + O2 -> H2O",
+      "B": "2H2 + O2 -> 2H2O",
+      "C": "H2 + 2O2 -> 2H2O",
+      "D": "2H2 + 2O2 -> 2H2O"
+    },
+    "answer": "B"
+  },
+  "2": {
+    "question": "Which of the following is a characteristic property of acids?",
+    "options": {
+      "A": "Turns blue litmus paper red",
+      "B": "Turns red litmus paper blue",
+      "C": "Does not change the color of litmus paper",
+      "D": "None of the above"
+    },
+    "answer": "A"
+  },
+  "3": {
+    "question": "Which of the following metals reacts with water to produce hydrogen gas?",
+    "options": {
+      "A": "Gold",
+      "B": "Silver",
+      "C": "Sodium",
+      "D": "Copper"
+    },
+    "answer": "C"
+  },
+  "4": {
+    "question": "Which of the following is an example of an unsaturated hydrocarbon?",
+    "options": {
+      "A": "Methane",
+      "B": "Ethane",
+      "C": "Ethene",
+      "D": "Propane"
+    },
+    "answer": "C"
+  },
+  "5": {
+    "question": "Which of the following elements has the highest electronegativity in the modern periodic table?",
+    "options": {
+      "A": "Fluorine",
+      "B": "Oxygen",
+      "C": "Nitrogen",
+      "D": "Chlorine"
+    },
+    "answer": "A"
+  },
+  "6": {
+    "question": "Which of the following salts is used in the preparation of baking soda?",
+    "options": {
+      "A": "Sodium chloride",
+      "B": "Sodium carbonate",
+      "C": "Sodium bicarbonate",
+      "D": "Sodium hydroxide"
+    },
+    "answer": "B"
+  },
+  "7": {
+    "question": "Which of the following functional groups is present in ethanoic acid?",
+    "options": {
+      "A": "-OH",
+      "B": "-COOH",
+      "C": "-CHO",
+      "D": "-NH2"
+    },
+    "answer": "B"
+  },
+  "8": {
+    "question": "Which of the following is an example of a decomposition reaction?",
+    "options": {
+      "A": "2H2 + O2 -> 2H2O",
+      "B": "CaO + H2O -> Ca(OH)2",
+      "C": "2KClO3 -> 2KCl + 3O2",
+      "D": "4Fe + 3O2 -> 2Fe2O3"
+    },
+    "answer": "C"
+  },
+  "9": {
+    "question": "Which of the following non-metals is a good conductor of electricity?",
+    "options": {
+      "A": "Sulfur",
+      "B": "Phosphorus",
+      "C": "Graphite",
+      "D": "Iodine"
+    },
+    "answer": "C"
+  },
+  "10": {
+    "question": "Which of the following elements belongs to the halogen group in the periodic table?",
+    "options": {
+      "A": "Oxygen",
+      "B": "Chlorine",
+      "C": "Argon",
+      "D": "Potassium"
+    },
+    "answer": "B"
+  },
+  "11": {
+    "question": "Which of the following terms refers to the bending of light when it passes from one medium to another?",
+    "options": {
+      "A": "Reflection",
+      "B": "Refraction",
+      "C": "Dispersion",
+      "D": "Diffraction"
+    },
+    "answer": "B"
+  }
+}

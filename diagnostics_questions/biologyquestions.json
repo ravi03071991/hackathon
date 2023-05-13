@@ -1,0 +1,142 @@
+{
+  "1": {
+    "question": "Which of the following is NOT a life process?",
+    "options": {
+      "A": "Nutrition",
+      "B": "Respiration",
+      "C": "Transportation",
+      "D": "Photosynthesis"
+    },
+    "answer": "D"
+  },
+  "2": {
+    "question": "Which part of the neuron is responsible for receiving information?",
+    "options": {
+      "A": "Axon",
+      "B": "Dendrites",
+      "C": "Cell body",
+      "D": "Myelin sheath"
+    },
+    "answer": "B"
+  },
+  "3": {
+    "question": "Which of the following is a mode of asexual reproduction?",
+    "options": {
+      "A": "Budding",
+      "B": "Fertilization",
+      "C": "Meiosis",
+      "D": "Crossing over"
+    },
+    "answer": "A"
+  },
+  "4": {
+    "question": "Which of the following is an example of homologous structures?",
+    "options": {
+      "A": "Wings of a bird and wings of a butterfly",
+      "B": "Forelimbs of a human and forelimbs of a whale",
+      "C": "Beak of a bird and teeth of a mammal",
+      "D": "Antennae of an insect and antennae of a crustacean"
+    },
+    "answer": "B"
+  },
+  "5": {
+    "question": "Which of the following is a biotic component of an ecosystem?",
+    "options": {
+      "A": "Water",
+      "B": "Soil",
+      "C": "Sunlight",
+      "D": "Plants"
+    },
+    "answer": "D"
+  },
+  "6": {
+    "question": "Which of the following is a non-renewable natural resource?",
+    "options": {
+      "A": "Solar energy",
+      "B": "Wind energy",
+      "C": "Petroleum",
+      "D": "Water"
+    },
+    "answer": "C"
+  },
+  "7": {
+    "question": "Which of the following is a characteristic of a dominant trait?",
+    "options": {
+      "A": "It is always expressed in the offspring",
+      "B": "It is never expressed in the offspring",
+      "C": "It is expressed only when both parents have the trait",
+      "D": "It is expressed only when one parent has the trait"
+    },
+    "answer": "A"
+  },
+  "8": {
+    "question": "Which of the following is a waste product of cellular respiration?",
+    "options": {
+      "A": "Oxygen",
+      "B": "Glucose",
+      "C": "Carbon dioxide",
+      "D": "Water"
+    },
+    "answer": "C"
+  },
+  "9": {
+    "question": "Which hormone is responsible for the fight or flight response?",
+    "options": {
+      "A": "Insulin",
+      "B": "Adrenaline",
+      "C": "Oxytocin",
+      "D": "Melatonin"
+    },
+    "answer": "B"
+  },
+  "10": {
+    "question": "Which of the following is a characteristic of sexual reproduction?",
+    "options": {
+      "A": "Offspring are genetically identical to the parent",
+      "B": "Offspring are genetically different from the parent",
+      "C": "Only one parent is required",
+      "D": "It occurs only in unicellular organisms"
+    },
+    "answer": "B"
+  },
+  "11": {
+    "question": "Which of the following is a sustainable method of managing forests?",
+    "options": {
+      "A": "Clear-cutting",
+      "B": "Selective logging",
+      "C": "Slash and burn agriculture",
+      "D": "Deforestation"
+    },
+    "answer": "B"
+  },
+  "12": {
+    "question": "Which of the following is an example of a non-biodegradable pollutant?",
+    "options": {
+      "A": "Sewage",
+      "B": "Pesticides",
+      "C": "Plastic",
+      "D": "Dead leaves"
+    },
+    "answer": "C"
+  },
+  "13": {
+    "question": "Which of the following is a method of conserving water?",
+    "options": {
+      "A": "Using a hose to water plants",
+      "B": "Taking long showers",
+      "C": "Collecting rainwater for reuse",
+      "D": "Leaving the tap running while brushing teeth"
+    },
+    "answer": "C"
+  },
+  "14": {
+    "question": "Which of the following is a function of the male reproductive system in humans?",
+    "options": {
+      "A": "Production of eggs",
+      "B": "Production of sperm",
+      "C": "Fertilization of eggs",
+      "D": "Development of the embryo"
+    },
+    "answer": "B"
+  }
+}
