@@ -1,0 +1,102 @@
+{
+  "1": {
+    "question": "Which of the following best describes the image formed by a concave mirror when the object is placed between the pole and the focus?",
+    "options": {
+      "A": "Real, inverted, and magnified",
+      "B": "Virtual, erect, and magnified",
+      "C": "Real, inverted, and diminished",
+      "D": "Virtual, erect, and diminished"
+    },
+    "answer": "B"
+  },
+  "2": {
+    "question": "Which of the following defects of vision can be corrected using a concave lens?",
+    "options": {
+      "A": "Myopia",
+      "B": "Hypermetropia",
+      "C": "Presbyopia",
+      "D": "Astigmatism"
+    },
+    "answer": "A"
+  },
+  "3": {
+    "question": "What is the SI unit of electric resistance?",
+    "options": {
+      "A": "Volt",
+      "B": "Ampere",
+      "C": "Ohm",
+      "D": "Watt"
+    },
+    "answer": "C"
+  },
+  "4": {
+    "question": "Which of the following devices works on the principle of electromagnetic induction?",
+    "options": {
+      "A": "Electric motor",
+      "B": "Electric generator",
+      "C": "Transformer",
+      "D": "All the above"
+    },
+    "answer": "D"
+  },
+  "5": {
+    "question": "Which of the following is a non-conventional source of energy?",
+    "options": {
+      "A": "Coal",
+      "B": "Petroleum",
+      "C": "Solar energy",
+      "D": "Natural gas"
+    },
+    "answer": "C"
+  },
+  "6": {
+    "question": "Which of the following is the correct expression for Ohm's Law?",
+    "options": {
+      "A": "V = IR",
+      "B": "I = VR",
+      "C": "R = VI",
+      "D": "V = I/R"
+    },
+    "answer": "A"
+  },
+  "7": {
+    "question": "Which of the following is the correct expression for the force on a current-carrying conductor in a magnetic field?",
+    "options": {
+      "A": "F = BIL",
+      "B": "F = B/I",
+      "C": "F = LI/B",
+      "D": "F = B/L"
+    },
+    "answer": "A"
+  },
+  "8": {
+    "question": "Which of the following is an example of a renewable source of energy?",
+    "options": {
+      "A": "Nuclear energy",
+      "B": "Fossil fuels",
+      "C": "Hydro power",
+      "D": "Natural gas"
+    },
+    "answer": "C"
+  },
+  "9": {
+    "question": "Which of the following is the correct expression for the lens formula?",
+    "options": {
+      "A": "1/f = 1/u + 1/v",
+      "B": "1/f = 1/u - 1/v",
+      "C": "1/f = u/v",
+      "D": "1/f = u + v"
+    },
+    "answer": "A"
+  },
+  "10": {
+    "question": "Which of the following natural phenomena is explained by the scattering of light?",
+    "options": {
+      "A": "Rainbow",
+      "B": "Blue sky",
+      "C": "Mirage",
+      "D": "Total internal reflection"
+    },
+    "answer": "B"
+  }
+}

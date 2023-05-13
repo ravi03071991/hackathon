@@ -1,0 +1,152 @@
+{
+  "1": {
+    "question": "Which of the following is an application of Euclid's Division Lemma?",
+    "options": {
+      "A": "Finding the HCF of two numbers",
+      "B": "Finding the LCM of two numbers",
+      "C": "Solving quadratic equations",
+      "D": "Determining the nature of roots of a quadratic equation"
+    },
+    "answer": "A"
+  },
+  "2": {
+    "question": "What is the geometrical representation of the zeroes of a quadratic polynomial?",
+    "options": {
+      "A": "Intersection points of a line with the x-axis",
+      "B": "Intersection points of a parabola with the x-axis",
+      "C": "Intersection points of a circle with the x-axis",
+      "D": "Intersection points of an ellipse with the x-axis"
+    },
+    "answer": "B"
+  },
+  "3": {
+    "question": "Which method is used to solve a pair of linear equations in two variables by reducing them to a linear form?",
+    "options": {
+      "A": "Substitution method",
+      "B": "Elimination method",
+      "C": "Cross-multiplication method",
+      "D": "Matrix method"
+    },
+    "answer": "A"
+  },
+  "4": {
+    "question": "What is the discriminant of a quadratic equation?",
+    "options": {
+      "A": "b^2 - 4ac",
+      "B": "a^2 - 4bc",
+      "C": "c^2 - 4ab",
+      "D": "a^2 + b^2 + c^2"
+    },
+    "answer": "A"
+  },
+  "5": {
+    "question": "What is the general formula for the nth term of an arithmetic progression?",
+    "options": {
+      "A": "a + (n - 1)d",
+      "B": "a + nd",
+      "C": "a + (n + 1)d",
+      "D": "a + (n - 1)r"
+    },
+    "answer": "A"
+  },
+  "6": {
+    "question": "Which of the following is a criterion for triangle similarity?",
+    "options": {
+      "A": "AAA",
+      "B": "SSS",
+      "C": "SAS",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  "7": {
+    "question": "What is the distance formula for two points (x1, y1) and (x2, y2) in coordinate geometry?",
+    "options": {
+      "A": "√((x2 - x1)^2 + (y2 - y1)^2)",
+      "B": "√((x2 + x1)^2 + (y2 + y1)^2)",
+      "C": "√((x2 - x1)^2 - (y2 - y1)^2)",
+      "D": "√((x2 + x1)^2 - (y2 + y1)^2)"
+    },
+    "answer": "A"
+  },
+  "8": {
+    "question": "Which of the following is a trigonometric identity?",
+    "options": {
+      "A": "sin^2(x) + cos^2(x) = 1",
+      "B": "sin(x) + cos(x) = 1",
+      "C": "tan(x) + cot(x) = 1",
+      "D": "sec(x) + csc(x) = 1"
+    },
+    "answer": "A"
+  },
+  "9": {
+    "question": "In the context of trigonometry, what is the main application of heights and distances?",
+    "options": {
+      "A": "Measuring the height of a building",
+      "B": "Finding the distance between two points",
+      "C": "Calculating the area of a triangle",
+      "D": "Determining the angle of elevation or depression"
+    },
+    "answer": "A"
+  },
+  "10": {
+    "question": "Which of the following is a construction method for dividing a line segment in a given ratio?",
+    "options": {
+      "A": "Section formula",
+      "B": "Midpoint formula",
+      "C": "Distance formula",
+      "D": "Perpendicular bisector"
+    },
+    "answer": "A"
+  },
+  "11": {
+    "question": "What is the condition for a line to be tangent to a circle?",
+    "options": {
+      "A": "The line should intersect the circle at exactly one point",
+      "B": "The line should intersect the circle at exactly two points",
+      "C": "The line should be parallel to the circle",
+      "D": "The line should be perpendicular to the circle"
+    },
+    "answer": "A"
+  },
+  "12": {
+    "question": "What is the formula for the area of a sector of a circle with radius r and angle θ?",
+    "options": {
+      "A": "(1/2) * r^2 * θ",
+      "B": "(1/2) * r * θ",
+      "C": "π * r^2 * (θ/360)",
+      "D": "2 * π * r * (θ/360)"
+    },
+    "answer": "C"
+  },
+  "13": {
+    "question": "What is the formula for the volume of a frustum of a cone?",
+    "options": {
+      "A": "(1/3) * π * h * (R^2 + r^2 + Rr)",
+      "B": "(1/3) * π * h * (R^2 - r^2)",
+      "C": "(1/3) * π * h * (R^2 + r^2 - Rr)",
+      "D": "(1/3) * π * h * (R^2 - r^2 + Rr)"
+    },
+    "answer": "A"
+  },
+  "14": {
+    "question": "Which of the following is a measure of central tendency?",
+    "options": {
+      "A": "Mean",
+      "B": "Mode",
+      "C": "Median",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  "15": {
+    "question": "What is the probability of an event that is certain to happen?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "0.5",
+      "D": "Undefined"
+    },
+    "answer": "B"
+  }
+}
