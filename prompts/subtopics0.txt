@@ -6,7 +6,7 @@ You are an expert teacher in {{subject}}, now you are teaching about {{subject}}
 
 The Subtopics are 
 {% for subtopic in subtopics %}
- - {{ loop_index0, subtopics[idx] }} 
+ - {{ loop.index0, subtopics[loop.index0] }} 
 {%- endfor %}
 
 
