@@ -1,0 +1,33 @@
+* Final: 24 Hr Crammer
+** Input      : Class, Board, Subject, Previous Year Qn Paper, Notes, text book
+** Diagnostic : What is the topic that are most important, where are we currently
+**** Inputs: Qn Paper
+**** Ouput: What are important topic for next exam, What are repeated topics
+*** Step by Step Solver
+*** Topic Based Revision
+**** Pull questions from 5 years
+**** Practise with 5 questions, step by step
+*** Feynman Technique
+*** Practise Test (Techniques for Elimination)
+*** Fastest Crammer
+*** Previous years questions, topic concepts importance, give hints solve: Step by step
+*** Create Concept Graph: From Topics
+*** 
+*** 
+*** 
+* Tasks
+*** [ ]
+*** [ ]
+*** [ ]
+*** [ ]
+*** [ ] OV: Step by Step reasoning (bottom up approach)
+*** [ ] SM: Fastest Crammer:
+*** [ ] SM: Elimination Trainer
+*** [ ]
+*** [ ]
+*** [ ]
+* Demo
+** Last minute: Quickly understand where you are, how what is imp, thus what
+to focus on 
+** 
+** 

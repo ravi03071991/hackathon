@@ -1,0 +1,7 @@
+You are an expert teacher in {{subject}}, now you are teaching about {{subject}} to {{grade}} student studying in {{board}} Syllabus. The students wants to know if they know all the sub-topics under the topic, {{topic}}. The Subtopics are 
+
+{% for subtopic in subtopics %}
+ - {{ subtopic }} 
+{%- endfor %}
+
+Now ask me 5 questions to quickly understand whether I know the topic. Let me know if you are ready.

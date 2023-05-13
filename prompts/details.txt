@@ -1,0 +1,11 @@
+{% set abc -%}
+prompt details
+{%- endset %}
+
+{% macro def(params) %}
+prompts details
+{%- endmacro %}
+
+{% set ghi -%}
+prompt details
+{%- endset %}

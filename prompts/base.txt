@@ -1,0 +1,4 @@
+{% from 'details.txt' import abc, def, ghi -%}
+{{ abc }}
+{{ def(param) }}
+{{ ghi }}

@@ -1,0 +1,24 @@
+{ "The Human Eye and the Colorful World":
+   ["The ability of the eye to focus on both near and distant objects, by adjusting its focal length, is called the accommodation of the eye.",
+    "The smallest distance, at which the eye can see objects clearly without strain, is called the near point of the eye or the least distance of distinct vision. For a young adult with normal vision, it is about 25 cm.", 
+    "The common refractive defects of vision include myopia, hypermetropia and presbyopia. Myopia (short-sightedness – the image of distant objects is focussed before the retina) is corrected by using a concave lens of suitable power.",
+    "Hypermetropia (far-sightedness – the image of nearby objects is focussed beyond the retina) is corrected by using a convex lens of suitable power. The eye loses its power of accommodation at old age.",
+     "The splitting of white light into its component colours is called dispersion.",
+     "Scattering of light causes the blue colour of sky."]
+  ,
+ "Light - Reflection and Refraction":
+  ["Light seems to travel in straight lines.",
+   "Mirrors and lenses form images of objects. Images can be either real or virtual, depending on the position of the object.",
+   "The reflecting surfaces, of all types, obey the laws of reflection. The refracting surfaces obey the laws of refraction.",
+   "New Cartesian Sign Conventions are followed for spherical mirrors and lenses.",
+    "Mirror Formula, $ 1 \\over v + 1 \\over u  = 1 \\over f$, gives the relationship between the object-distance (u), image-distance (v) and focal length (f) of a spherical mirror",
+   "The focal length of a spherical mirror is equal to half its radius of curvature.",
+    "The magnification produced by a spherical mirror is the ratio of the height of the image to the height of the object.",
+    "A light ray travelling obliquely from a denser medium to a rarer medium bends away from the normal. A light ray bends towards the normal when it travels obliquely from a rarer to a denser medium.",
+    "Light travels in vacuum with an enormous speed of $3x10^8$ $m/s$. The speed of light is different in different media.",
+    "The refractive index of a transparent medium is the ratio of the speed of light in vacuum to that in the medium.",
+    "In case of a rectangular glass slab, the refraction takes place at both air-glass interface and glass-air interface. The emergent ray is parallel to the direction of incident ray.",
+    "Lens Formula, $ 1 \\over v - 1 \\over u  = 1 \\over f$, gives the relationship between the object-distance (u), image-distance (v) and focal length (f) of a spherical lens",
+    "Power of a lens is the reciprocal of its focal length. The SI unit of power of a lens is dioptre"
+  ]
+}

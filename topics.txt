@@ -1,0 +1,5 @@
+Chemical Structure    : 25
+World of Living       : 25
+Natural Phenomena     : 12
+Effect of Current     : 13
+Natural Resources     : 05
